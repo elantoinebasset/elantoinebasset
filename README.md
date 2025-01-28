@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elantoinebasset
+- 👋 Hi, I’m elantoinebasset
 - 👀 I’m interested in coding everything
 - 🌱 I’m currently learning JS and PHP
 - 💞️ I’m looking to collaborate on ...
