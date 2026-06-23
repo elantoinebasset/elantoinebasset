@@ -1,6 +1,6 @@
 - 👋 Hi, I’m elantoinebasset
 - 👀 I’m interested in coding everything
-- 🌱 I’m currently learning C# / Docker / PhP / Quarkus / Vue.js /Java
+- 🌱 I’m currently learning C# / Docker / PhP / Quarkus / Vue.js / Java
 - 💞️ I’m Working on my own game, with some friends
 - 📫 How to reach me, well contact me via my mail adress antoine.basset05@gmail.com
 - 😄 Pronouns: HE 
